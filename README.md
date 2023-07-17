@@ -1,3 +1,7 @@
+<p align="left"><img src="https://komarev.com/ghpvc/?username=GabiLS18" alt="GabiLS18" /></p>
+
+<h1 align = "justify">Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Eu sou a Gabrielle!</h1>
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
