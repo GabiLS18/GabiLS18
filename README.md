@@ -11,7 +11,6 @@
 <p align="left">
   🦄 Aprendendo no momento: 
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 </p>
 
