@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Estudante de Analise e Desenvolvimento de Sistemas, amante de cappuccino, fã de tecnologia e atualmente aprendendo <strong>Python</strong>.  
+  Analista de Sistemas Jr, amante de cappuccino, fã de tecnologia e atualmente aprendendo <strong>Front</strong>.  
 </p>
 
 <p align="left">
